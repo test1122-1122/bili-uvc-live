@@ -9,7 +9,7 @@
 
 ## 1. 环境
 
-- 项目：`bili-uvc-live`（GitHub: 待发布）
+- 项目：`bili-uvc-live`（GitHub: https://github.com/test1122-1122/t508n_kernel/tree/import/bili-uvc-live）
 - JDK 17，Gradle 8.7（`./gradlew`），Android SDK `compileSdk 34 / minSdk 26 / targetSdk 34`
 - **必须**设置环境变量后再构建（否则 Gradle 找不到可写目录 / SDK）：
 
