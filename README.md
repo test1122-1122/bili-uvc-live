@@ -1,5 +1,12 @@
 # BiliUVC Live — 用 USB 摄像头直接直播 B 站（Android）
 
+> **GitHub**: <https://github.com/test1122-1122/t508n_kernel/tree/import/bili-uvc-live>
+> （当前发布在该镜像仓库的 `import/bili-uvc-live` 分支；tag `v1.0.12`）
+>
+> ```bash
+> git clone -b import/bili-uvc-live https://github.com/test1122-1122/t508n_kernel.git bili-uvc-live
+> ```
+
 这是一个 Android 直播 App：把 **UVC/USB 摄像头** 通过 OTG 接到手机上，在 App 内直接推流到 **哔哩哔哩直播间**。
 
 它解决的是官方路径的一个缺口：B 站官方的手机直播/PC 直播工具通常只能使用设备自带摄像头或虚拟摄像头，不能直接选择 USB 摄像头；而「手机当电脑摄像头（如 nExt Camera - USB）→ 电脑 OBS → bilibili-stream-for-obs 插件」的链路又必须依赖电脑和 OBS。本项目把这条链路收进一个 APK：
