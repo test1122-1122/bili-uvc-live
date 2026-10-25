@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB IAD (Interface Association Descriptor) composite device: typically UVC video + audio.
+         This is exactly the filter used by nExt Camera - USB. -->
+    <usb-device class="239" subclass="2" protocol="1" />
+    <!-- Plain USB Video Class device (no IAD). -->
+    <usb-device class="14" />
+</resources>

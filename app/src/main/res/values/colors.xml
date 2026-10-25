@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bili_pink">#FB7299</color>
+    <color name="bili_pink_dark">#D45C7E</color>
+    <color name="panel_black">#CC000000</color>
+    <color name="panel_black_solid">#F2000000</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="live_red">#FFFF4D4F</color>
+    <color name="ok_green">#FF52C41A</color>
+</resources>
